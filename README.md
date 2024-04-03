@@ -1,9 +1,10 @@
 ### 友情链接 👋
 
-- [小莫的博客园](https://www.aoe.top)  
-- [小莫的源码库](https://git.aoe.top)  
+- [小莫的个人站](https://www.aoe.top)  
+- [小莫的博客园](https://blog.aoe.top)  
 - [小莫的云网盘](https://pan.aoe.top)  
 - [小莫的游戏库](https://game.aoe.top)
+- [小莫的云分享](https://cloud.aoe.top)  
 
 ### 统计数据
 
