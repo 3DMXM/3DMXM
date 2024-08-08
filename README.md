@@ -5,7 +5,7 @@
 - [小莫的云网盘](https://pan.aoe.top)  
 - [小莫的游戏库](https://game.aoe.top)
 - [小莫的云分享](https://cloud.aoe.top)
-- [小莫&饮月の画廊](https://gallery.aoe.top)
+- [饮月の画廊](https://gallery.aoe.top)
 
 ### 统计数据
 
